@@ -10,7 +10,7 @@ function HeroComp() {
             <h1 className="text-center fs-1 animate__animated animate__fadeInUp animate__delay-4s">
               Auriela Alfredo
             </h1>
-            <p className=" text-center text-white-50 animate__animated animate__fadeInUp animate__delay-5s">
+            <p className="spesial text-center text-white-50 animate__animated animate__fadeInUp animate__delay-5s">
               the special person born in march.
             </p>
           </Col>

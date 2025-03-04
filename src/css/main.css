@@ -36,6 +36,9 @@
   transition: box-shadow 0.5s ease-in-out; /* Menambahkan ease-in-out */
 }
 
+.spesial {
+  margin-top: -0.8rem;
+}
 .last {
   background-color: rgba(238, 238, 227, 0.625);
 }
