@@ -51,7 +51,7 @@ function ServiceComp() {
                 with and other things. Just chat me if you want. no matter how{" "}
                 <span className="text-red-600">busy</span> I am I will
                 definitely make time, because in my opinion busy doesn't exist,
-                it all depends on priorities. I also can't force you to chat me
+                it all depends on <span className="text-red-600">priorities</span>. I also can't force you to chat me
                 all the time but if you chat I will definitely reply, just tell
                 me what you want to say to me personally.
                 <br />
