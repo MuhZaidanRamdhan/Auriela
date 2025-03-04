@@ -15,7 +15,7 @@ function ServiceComp() {
             <h1 className="services-title text-center fw-bold">
               This & my favorite yapper🗣️
             </h1>
-            <p className="text-center">I type this message consciously</p>
+            <p className="text-center">Please play this music while you read</p>
             <audio controls>
               <source src={audio} type="audio/mpeg" />
               Your browser does not support the audio element.
