@@ -45,11 +45,9 @@ function FaqComp() {
             <Accordion>
               <Accordion.Item eventKey="4">
                 <Accordion.Header>
-                Gajah apa yang paling baik hati
+                  Gajah apa yang paling baik hati
                 </Accordion.Header>
-                <Accordion.Body>
-                 Gajahat
-                </Accordion.Body>
+                <Accordion.Body>Gajahat</Accordion.Body>
               </Accordion.Item>
             </Accordion>
           </Col>
@@ -66,10 +64,10 @@ function FaqComp() {
           <Col>
             <Accordion>
               <Accordion.Item eventKey="6">
-                <Accordion.Header>Kenapa ikan enggak pernah tidur?</Accordion.Header>
-                <Accordion.Body>
-                karena kasurnya basah terus.
-                </Accordion.Body>
+                <Accordion.Header>
+                  Kenapa ikan enggak pernah tidur?
+                </Accordion.Header>
+                <Accordion.Body>karena kasurnya basah terus.</Accordion.Body>
               </Accordion.Item>
             </Accordion>
           </Col>

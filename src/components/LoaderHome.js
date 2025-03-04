@@ -79,7 +79,7 @@ const LoaderHome = () => {
           }}
           className="loaderText text-white fw-bold"
         >
-          Nǐ hǎo (你好) 
+          Nǐ hǎo(你好) 
         </motion.span>
         <motion.span
           initial={{ opacity: 0 }}

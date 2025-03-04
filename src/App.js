@@ -2,6 +2,7 @@ import FaqComp from "./components/FaqComp";
 import FooterComp from "./components/FooterComp";
 import GalleryComp from "./components/GalleryComp";
 import HeroComp from "./components/HeroComp";
+import LastComp from "./components/LastComp";
 import LoaderHome from "./components/LoaderHome";
 import NavbarComp from "./components/NavbarComp";
 import ServiceComp from "./components/ServiceComp";
@@ -24,6 +25,8 @@ function App() {
       <GalleryComp />
       <ServiceComp />
       <FaqComp />
+      <LastComp />
+      
 
       {/* Content */}
 
