@@ -52,7 +52,7 @@ function ServiceComp() {
                 come to you. I will always be there for you, as a good friend.
                 This world is full of coincidences, and one of the coincidences
                 I am most grateful for is meeting you. you are deserve better,
-                so I become better. I wish I was your favorite listener.
+                so I became better. I wish I was your favorite listener.
               </p>
               <p className="text-left fs-5 italic">
                 From, <br /> someone.
