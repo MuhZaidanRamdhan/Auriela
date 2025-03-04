@@ -66,7 +66,7 @@ const LoaderHome = () => {
           }}
           className="loaderText text-white fw-bold"
         >
-          Annyeonghaseyo (안녕하세요) 
+          Ciao 
         </motion.span>
         <motion.span
           initial={{ opacity: 0 }}
