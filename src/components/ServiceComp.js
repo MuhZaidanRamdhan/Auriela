@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from "react"; // Menambahkan useRef dan useEffect
 import { Col, Container, Row } from "react-bootstrap";
 import audio from "../assets/audio/soundtrack.mp3";
+// import bubib from "../assets/gallery/bubib.png";
 
 function ServiceComp() {
   return (
@@ -51,9 +52,11 @@ function ServiceComp() {
                 with and other things. Just chat me if you want. no matter how{" "}
                 <span className="text-red-600">busy</span> I am I will
                 definitely make time, because in my opinion busy doesn't exist,
-                it all depends on <span className="text-red-600">priorities</span>. I also can't force you to chat me
-                all the time but if you chat I will definitely reply, just tell
-                me what you want to say to me personally.
+                it all depends on{" "}
+                <span className="text-red-600">priorities</span>. I also can't
+                force you to chat me all the time but if you chat I will
+                definitely reply, just tell me what you want to say to me
+                personally.
                 <br />
                 <br /> Thank you for being my friend, thank you also for being a
                 part of your life and I am lucky to know you. I hope{" "}
@@ -77,6 +80,11 @@ function ServiceComp() {
             </div>
           </Col>
         </Row>
+        {/* <Row>
+          <Col className="d-flex justify-content-center align-items-center"> 
+            <img src={bubib} alt="" className="bubib"/>
+          </Col>
+        </Row> */}
       </Container>
     </div>
   );

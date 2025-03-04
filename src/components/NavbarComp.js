@@ -38,7 +38,7 @@ const NavbarComp = () => {
               <Nav.Link href="#hero">Home</Nav.Link>
               <Nav.Link href="#gallery">Gallery</Nav.Link>
               <Nav.Link href="#service">Letter</Nav.Link>
-              <Nav.Link href="#faq">Unknown</Nav.Link>
+              <Nav.Link href="#funny">Funny</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
